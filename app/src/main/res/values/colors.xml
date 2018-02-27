@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="Red">#FF0818</color>
+    <color name="color2">#F1F8E9</color>
+    <color name="Brown_500">#795548</color>
+    <color name="Black">#000000</color>
+    <color name="White">#FFFFFF</color>
+    <color name="Button_Game_Background">#F5D0A9</color>
+    <color name="Brwn">#AB7E48</color>
+    <color name="Ten">#D9C2A6</color>
+    <color name="Gri">#CECDCD</color>
+    <color name="Acik_Gri">#DCD6C5</color>
+
+    <color name="Two">#F0ECE9</color>
+    <color name="Four">#FFE3C9</color>
+    <color name="Eight">#FFCB9B</color>
+    <color name="sixteen">#FFB673</color>
+    <color name="thirty_two">#FE905C</color>
+    <color name="sixty_four">#FC6822</color>
+    <color name="one_hundred_twenty_eight">#F3FF75</color>
+    <color name="two_hundred_fifty_six">#EDFF33</color>
+    <color name="five_hundred_twelve">#ECDF13</color>
+    <color name="one_tousand_twenty_four">#FFD001</color>
+    <color name="two_tausand_forty_eight">#FFB201</color>
+    <color name="four_tausand_ninety_six">#FF6047</color>
+    <color name="s8192">#FF4F33</color>
+    <color name="s16384">#FE0000</color>
+    <color name="s32768">#99E4FF</color>
+    <color name="s65536">#64ACFF</color>
+    <color name="s131072">#1D86FF</color>
+
+    <color name="Tahta">#BEBAB7</color>
+    <color name="Tahta_Ic">#817B76</color>
+    <color name="Start_button">#F97B5A</color>
+    <color name="Leaderboard_button">#D33939</color>
+    <color name="Exit">#D31515</color>
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">2048</string>
+    <string name="Start">Start</string>
+    <string name="Warn">Please Enter Your Name</string>
+    <string name="Leaderboard">Leaderboard</string>
+    <string name="Leader">Leaderboard</string>
+    <string name="Exit">Exit</string>
+    <string name="Reset">Reset</string>
+    <string name="Undo">Undo</string>
+    <string name="BackToMenu">Back Menu</string>
+    <string name="Row">Row</string>
+    <string name="Name">Name</string>
+    <string name="BiggestNumber">Number</string>
+    <string name="Back">Back</string>
+    <string name="Score">Score</string>
+    <string name="Best">Best</string>
+</resources>
